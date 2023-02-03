@@ -1,4 +1,4 @@
-# Mad-Libs
+# Let's Play Mad Libs
 A simple Mad Libs project written in Java. Originally written 12/29/22
 
 ## Updates
